@@ -1,0 +1,4 @@
+﻿id,name,model,category,manufacturer,package,parameters_json,warning_quantity,notes,location,quantity
+,示例电阻 4.7 kΩ,,贴片电阻,,0603,"{""resistance_ohm"": 4700, ""tolerance_percent"": 1, ""power_w"": 0.1}",0,使用手册示例；请按实际器件修改,,0
+,示例电容 100 nF,,贴片电容,,0603,"{""capacitance_f"": 1e-07, ""voltage_v"": 50, ""tolerance_percent"": 10, ""dielectric"": ""X7R""}",0,使用手册示例；请按实际器件修改,,0
+,示例电感 4.7 µH,,电感,,4040,"{""inductance_h"": 4.7e-06, ""inductor_type"": ""功率电感""}",0,使用手册示例；请按实际器件修改,,0
